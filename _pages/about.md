@@ -1,17 +1,25 @@
 ---
 permalink: /
-title: "Professional Software & Embedded Systems Engineer"
+title: "Software Engineer | IoT & Embedded Systems Engineer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I design and build reliable, production-ready software and embedded systems for industrial applications.
+I am a Software & IoT Engineer with professional experience spanning desktop application development, industrial embedded systems, and large-scale IoT deployments.
 
-With strong experience in firmware development, IoT architecture, and real-world deployment, I specialize in transforming hardware and sensors into scalable, cloud-connected intelligent systems.
+With a strong foundation in Electrical Engineering and years of hands-on R&D and production-level system development, I specialize in building reliable, scalable, and production-ready technology solutions — from low-level firmware to cross-platform desktop applications and cloud-integrated IoT ecosystems.
 
-From low-level embedded programming (ESP32, STM32, RTOS) to full-stack IoT integration (MQTT, REST API, ThingsBoard, VPS deployment), I develop end-to-end solutions that are stable in the field — not just in the lab.
+Professional Experience
+======
+Desktop Trading Application Engineer
+
+- Currently developing cross-platform stock trading desktop applications (Windows, Linux, macOS) using C++.
+- Real-time trading data integration via Redis / IDX service
+- Transaction engine (buy, sell, amend, withdraw, GTC)
+- TradingView chart integration (WebView system)
+- Cross-platform packaging (MSIX & macOS App Store deployment)
 
 A data-driven personal website
 ======
