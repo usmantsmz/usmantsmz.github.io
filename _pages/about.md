@@ -15,6 +15,7 @@ My experience spans C++ system development, ESP32/STM32 firmware, industrial IoT
 
 🚀 Core Expertise
 ======
+
 Embedded & Firmware Engineering
 ------
 - ESP32 / STM32 Firmware Development
@@ -48,6 +49,7 @@ High-Performance Desktop Software (C++)
 
 💼 Major Projects & Professional Experience
 ======
+
 📊 Cross-Platform Stock Trading Desktop Application
 ------
 PT Investrend Infotama Indonesia
@@ -120,46 +122,40 @@ R&D development:
 - Strong foundation in electronics & robotics systems engineering.
 
 🛠 Technical Stack
-Embedded Systems
+======
 
+Embedded Systems
+------
 ESP32, STM32, Arduino, FreeRTOS, Modbus RTU/TCP, LoRa, GSM, Ethernet
 
 Software & Programming
-
+------
 C++, C, Java, Python, PHP (Laravel, CodeIgniter), Qt Creator
 
 IoT & Backend
-
+------
 MQTT, ThingsBoard, Redis, REST API, MySQL, SQLite
 
 Hardware & Electronics
-
+------
 PCB Design (Eagle), Industrial Sensor Integration, Power System Design
 
 📈 Impact
-
-Built production-grade financial trading application
-
-Developed industrial IoT systems for mining & manufacturing
-
-Designed embedded firmware for smart PLC boards
-
-Delivered real-time monitoring & automation systems
-
-Led R&D electronic product development
-
+======
+- Built production-grade financial trading application
+- Developed industrial IoT systems for mining & manufacturing
+- Designed embedded firmware for smart PLC boards
+- Delivered real-time monitoring & automation systems
+- Led R&D electronic product development
 I focus on building reliable systems that work in real-world industrial environments — not just prototypes.
 
 🌍 Open for Opportunities
+======
 
 Available for:
-
-Senior Embedded Systems Engineer
-
-Industrial IoT Architect
-
-C++ System Engineer
-
-Remote Software Engineering Roles
+- Senior Embedded Systems Engineer
+- Industrial IoT Architect
+- C++ System Engineer
+- Remote Software Engineering Roles
 
 📩 Let’s build scalable and production-ready systems.
