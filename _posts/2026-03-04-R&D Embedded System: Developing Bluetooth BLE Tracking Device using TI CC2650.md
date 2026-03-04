@@ -1,7 +1,7 @@
 ---
 title: "R&D Embedded System: Developing Bluetooth BLE Tracking Device using TI CC2650"
 date: 2026-03-04
-permalink: /post/ble-tracking-device-ti-cc2650/
+permalink: /blog/ble-tracking-device-ti-cc2650/
 tags:
   - Embedded Systems
   - IoT
