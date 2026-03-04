@@ -1,7 +1,7 @@
 ---
 title: 'Building a DPV Robot Controller (2015)'
 date: 2026-03-03
-permalink: /post/dpv-robot-controller-embedded-system-2015/
+permalink: /blog/dpv-robot-controller-embedded-system-2015/
 tags:
   - Embedded Systems
   - Firmware Engineering
