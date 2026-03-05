@@ -124,7 +124,7 @@ Datasheet Download
 
 Full datasheet can be downloaded here:
 
-📄 /files/datasheet/asair-agh3485-datasheet.pdf
+📄 files/datasheet/usmantsmz-Temperature-and-humidity-transmitter（RS485）-Oct-2025.pdf
 
 Practical Notes
 
