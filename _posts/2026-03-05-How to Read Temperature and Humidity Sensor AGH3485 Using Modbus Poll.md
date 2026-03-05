@@ -13,7 +13,7 @@ tags:
   - modbus-poll
   - agh3485
 ---
-
+![How to Read Temperature and Humidity Sensor AGH3485 Using Modbus Poll](/images/usmantsmz-asair-sensor-agh3485.jpg)
 Industrial sensors commonly use **RS485 Modbus RTU communication** because of its reliability and simplicity in industrial environments. One of the commonly used devices is the **ASAIR AGH3485 temperature and humidity transmitter**.
 
 In this tutorial, I will explain step-by-step how to:
