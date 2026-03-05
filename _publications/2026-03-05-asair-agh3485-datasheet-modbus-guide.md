@@ -2,7 +2,7 @@
 title: "ASAIR AGH3485 Temperature Sensor RS485 – Datasheet and Modbus Communication Guide"
 collection: publications
 category: technical-reference
-permalink: /publications/2026-03-05-How to Read Temperature and Humidity Sensor AGH3485 Using Modbus Poll
+permalink: /publications/2026-03-05-asair-agh3485-datasheet-modbus-guide
 excerpt: 'Complete datasheet reference and Modbus communication guide for the ASAIR AGH3485 RS485 temperature sensor, including register map, baudrate configuration, and slave ID settings.'
 date: 2026-03-05
 venue: 'Technical Documentation'
