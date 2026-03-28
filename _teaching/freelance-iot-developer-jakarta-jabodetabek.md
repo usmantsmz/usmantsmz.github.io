@@ -9,7 +9,7 @@ location: "Jakarta, Indonesia"
 ---
 
 Solusi IoT End-to-End untuk Monitoring & Otomasi Industri
-
+------
 Di era digital dan industri 4.0, kebutuhan akan sistem Internet of Things (IoT) semakin meningkat, terutama di kawasan Jakarta dan Jabodetabek yang menjadi pusat industri, manufaktur, dan bisnis di Indonesia.
 
 Saya menyediakan jasa Freelance IoT Developer Jakarta & Jabodetabek untuk membantu Anda membangun sistem monitoring, otomasi, dan integrasi perangkat berbasis teknologi terkini.
