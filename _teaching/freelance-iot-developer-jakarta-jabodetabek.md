@@ -2,7 +2,7 @@
 title: "Freelance Jasa IoT Developer Jakarta & Jabodetabek Profesional"
 collection: freelance
 type: "Freelance Services"
-permalink: /freelance-qt-cpp-indonesia
+permalink: /freelance-iot-developer-jakarta-jabodetabek
 venue: ","
 date: 2026-03-28
 location: "Jakarta, Indonesia"
