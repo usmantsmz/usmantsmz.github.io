@@ -1,7 +1,7 @@
 ---
 title: 'C++ Qt untuk High Frequency Trading (HFT)'
 date: 2026-03-29
-permalink: /blog/cpp-qt-high-frequency-trading-hft
+permalink: /cpp-qt-high-frequency-trading-hft
 categories:
   - software engineer
 tags:
