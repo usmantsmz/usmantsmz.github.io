@@ -8,6 +8,8 @@ tags:
   - hft
   - trading app
   - stock
+
+
 ---
 Dalam dunia High Frequency Trading (HFT), kecepatan adalah segalanya. Setiap mikrodetik bisa menjadi pembeda antara profit dan loss. Oleh karena itu, pemilihan teknologi tidak boleh sembarangan.
 
