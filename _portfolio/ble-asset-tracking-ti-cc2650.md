@@ -1,6 +1,6 @@
 ---
 title: "Bluetooth Low Energy (BLE) Tracking System using TI CC2650 (Asset Tracking Solution)"
-excerpt: "Dalam project ini, saya mengembangkan Bluetooth Low Energy (BLE) Tracking System berbasis chip TI CC2650 sebagai bagian dari aktivitas Research & Development di PT Internex Indonesia.<br/><img src='/images/Custom-Industrial-Smart PLC-STM32.png'>"
+excerpt: "Dalam project ini, saya mengembangkan Bluetooth Low Energy (BLE) Tracking System berbasis chip TI CC2650 sebagai bagian dari aktivitas Research & Development di PT Internex Indonesia.<br/><img src='/images/bluetooth low energy-usmantsmz.png'>"
 collection: portfolio
 ---
 
