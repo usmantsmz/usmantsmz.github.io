@@ -1,6 +1,6 @@
 ---
 title: "Custom Smart PLC Controller using STM32 (Modbus RTU/TCP, Industrial IoT Ready)"
-excerpt: "Custom Smart PLC berbasis STM32 dengan dukungan Modbus RTU dan TCP untuk kontrol dan monitoring sistem industri secara real-time, dirancang sebagai solusi fleksibel, scalable, dan cost-efficient untuk kebutuhan automation modern.<br/><img src='/images/500x300.png'>"
+excerpt: "Custom Smart PLC berbasis STM32 dengan dukungan Modbus RTU dan TCP untuk kontrol dan monitoring sistem industri secara real-time, dirancang sebagai solusi fleksibel, scalable, dan cost-efficient untuk kebutuhan automation modern.<br/><img src='/images/Custom-Industrial-Smart PLC-STM32.png'>"
 collection: portfolio
 ---
 
