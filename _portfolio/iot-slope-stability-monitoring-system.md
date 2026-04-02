@@ -1,6 +1,6 @@
 ---
 title: "Slope Stability Monitoring System using IoT (LoRa, GSM, ThingsBoard Integration)"
-excerpt: "Sistem ini dikembangkan saat saya bekerja di PT Harmoni Panca Utama, dengan tujuan meningkatkan safety dan monitoring di area tambang yang memiliki risiko tinggi.<br/><img src='/images/Custom-Industrial-Smart PLC-STM32.png'>"
+excerpt: "Sistem ini dikembangkan saat saya bekerja di PT Harmoni Panca Utama, dengan tujuan meningkatkan safety dan monitoring di area tambang yang memiliki risiko tinggi.<br/><img src='/images/slope-stability-monitoring.png'>"
 collection: portfolio
 ---
 
