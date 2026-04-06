@@ -1,9 +1,15 @@
 ---
-title: "Modbus Poll Full Version? Alternatif dan Pendekatan Engineer Profesional"
+title: 'Modbus Poll Full Version? Alternatif dan Pendekatan Engineer Profesional'
 permalink: /modbus-poll-alternatif-engineer
 date: 2026-04-06
-category: IoT & Industrial Automation
-tags: [modbus, plc, scada, iot, embedded-system]
+categories: 
+  - industrial-iot
+tags:
+- modbus
+- plc
+- scada
+- iot
+- embedded-system
 ---
 
 # Modbus Poll Full Version? Alternatif dan Pendekatan Engineer Profesional
