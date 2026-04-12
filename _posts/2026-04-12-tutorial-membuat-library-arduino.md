@@ -14,8 +14,6 @@ tags:
   - mikrokontroler
 ---
 
-## Pendahuluan
-
 Dalam pengembangan sistem berbasis mikrokontroler, khususnya menggunakan Arduino, kita sering menulis kode yang berulang. Misalnya untuk membaca sensor, mengontrol aktuator, atau berkomunikasi dengan perangkat lain seperti RS485, Modbus, atau I2C.
 
 Agar kode lebih rapi, reusable, dan scalable, kita bisa membungkusnya menjadi sebuah *library*. Dengan library, kita tidak perlu lagi menulis ulang fungsi yang sama di setiap project. Cukup `#include`, dan semua fitur sudah siap digunakan.
