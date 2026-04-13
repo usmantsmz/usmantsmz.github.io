@@ -1,7 +1,7 @@
 ---
 title: 'Modbus Poll Full Version? Alternatif dan Pendekatan Engineer Profesional'
 permalink: /freelance-web-developer-cibubur-company-profile-seo
-date: 2026-04-06
+date: 2026-04-13
 categories: 
   - web-developer
   - seo
