@@ -21,9 +21,6 @@ Saya terbuka untuk:
 
 ## 🌐 Online Presence
 
-- **Website**  
-  https://sayuswa.com  
-
 - **GitHub**  
   https://usmantsmz.github.io/  
 
